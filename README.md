@@ -1,7 +1,5 @@
 # ComposeJetpackNavigationComponent
 
-Muti stack implementation
-
-Deeplinking with single and Multi stack
-
-Bottom Navigation
+* Muti stack implementation
+* Deeplinking with single and Multi stack
+* Bottom Navigation
